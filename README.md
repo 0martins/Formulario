@@ -34,7 +34,7 @@ Projeto Criado e desenvolvido por:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/98136615.jpg" width="100px;" alt="Foto do Rafael Martin no GitHub"/><br>
+        <img src="./assets/98136615.jpg" width="100px;" alt="Foto do Rafael Martins no GitHub"/><br>
         <sub>
           <b>Rafael Martins</b>
         </sub>
